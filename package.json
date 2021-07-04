@@ -1,0 +1,22 @@
+{
+  "name": "trava",
+  "version": "1.0.0",
+  "description": "Travel Landing page for Trava by Sourav Choudhury",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass scss/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SouravCodes101/Trava.git"
+  },
+  "author": "Sourav Choudhury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SouravCodes101/Trava/issues"
+  },
+  "homepage": "https://github.com/SouravCodes101/Trava#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
